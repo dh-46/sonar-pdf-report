@@ -26,16 +26,16 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.byoskill.sonar</groupId>
     <artifactId>sonar-pdfreport-plugin</artifactId>
-    <version>1.5.1</version>
+    <version>1.5.2</version>
     <packaging>sonar-plugin</packaging>
 
-    <url>https://github.com/sleroy/sonar-pdf-report</url>
+    <url>https://github.com/dh-46/sonar-pdf-report</url>
     <name>SonarQube PDF Report</name>
     <description>SonarQube plugin for PDF reporting</description>
     <inceptionYear>2010</inceptionYear>
     <organization>
-        <name>Byoskill Leroy</name>
-        <url>https://www.sylvainleroy.com</url>
+        <name>Daniel Huang</name>
+        <url>https://github.com/dh-46</url>
     </organization>
     <licenses>
         <license>
@@ -45,6 +45,17 @@
     </licenses>
 
     <developers>
+        <developer>
+            <id>dh-46</id>
+            <name>Daniel Huang</name>
+            <email>danielhuang.work@gmail.com</email>
+            <organization>Daniel Huang</organization>
+            <url>https://github.com/dh-46</url>
+            <roles>
+                <role>Developer</role>
+            </roles>
+            <timezone>+8</timezone>
+        </developer>
         <developer>
             <id>sleroy</id>
             <name>Sylvain Leroy</name>
@@ -72,9 +83,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:sleroy/sonar-pdf-report.git</connection>
-        <developerConnection>scm:git:git@github.com:sleroy/sonar-pdf-report.git</developerConnection>
-        <url>https://github.com/sleroy/sonar-pdf-report</url>
+        <connection>scm:git:git@github.com:dh-46/sonar-pdf-report.git</connection>
+        <developerConnection>scm:git:git@github.com:dh-46/sonar-pdf-report.git</developerConnection>
+        <url>https://github.com/dh-46/sonar-pdf-report</url>
         <tag>HEAD</tag>
     </scm>
     <issueManagement>
